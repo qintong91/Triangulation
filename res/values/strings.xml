@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">triangulation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="tip">传感器返回的值</string>
+	<string name="tip2">输入高度</string>
+	<string name="ok">确定</string>
+	<string name="start">开始</string>
+</resources>

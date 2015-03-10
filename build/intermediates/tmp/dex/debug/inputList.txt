@@ -1,0 +1,5 @@
+D:\androidCode\workspace\triangulation\build\intermediates\classes\debug
+D:\androidCode\workspace\triangulation\build\intermediates\pre-dexed\debug\locSDK_4.2-2a838dc20d32c02e7882acae0743f718a7d1e9e0.jar
+D:\androidCode\workspace\triangulation\build\intermediates\pre-dexed\debug\classes-7836bb35e1cbce85fd5ecd17cd134a66bdedb90c.jar
+D:\androidCode\workspace\triangulation\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5ca52599daeb634b2e02fa23f2b8316d22cf877f.jar
+D:\androidCode\workspace\triangulation\build\intermediates\pre-dexed\debug\android-support-v4-63a4f9b25fb7056e1270b4ea3c1ffa599ecb5551.jar
